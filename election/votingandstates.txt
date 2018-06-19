@@ -1,0 +1,4 @@
+Perlis,kangar,09,40
+Kedah,alor star,02,25
+Kelantan,kota bahru,03,28
+sabah,kota kinabalu,12,45
